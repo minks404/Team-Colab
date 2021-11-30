@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308995865204",
+    "project_id": "team-colab",
+    "storage_bucket": "team-colab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308995865204:android:bfcaaa767b11b6695aaf21",
+        "android_client_info": {
+          "package_name": "com.teamcolab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308995865204-08uldr3dsccm7c703l6lup9b7bhb7obp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0Pca1mjoERJbUlwuAY60P2hNOEIo_J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308995865204-08uldr3dsccm7c703l6lup9b7bhb7obp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
